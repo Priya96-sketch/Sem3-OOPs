@@ -1,5 +1,6 @@
-/*(Q)Write a CreditCardHolder class with name and address and monthly_payment as member
-variables(where name and address are userdefined).Take the input from user and display the data .*/
+/*(Q)Write a program in C++,which will add to complex number.(using class concept)
+Hint: take one default constructor(which will set default value (2,2) .
+Take another parameterized constructor .Use destructor function for deallocating memory.*/
 
 #include <iostream>
 using namespace std;
