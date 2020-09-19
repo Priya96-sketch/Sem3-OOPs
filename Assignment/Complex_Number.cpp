@@ -1,3 +1,6 @@
+/*(Q)Write a CreditCardHolder class with name and address and monthly_payment as member
+variables(where name and address are userdefined).Take the input from user and display the data .*/
+
 #include <iostream>
 using namespace std;
 class Complex{
