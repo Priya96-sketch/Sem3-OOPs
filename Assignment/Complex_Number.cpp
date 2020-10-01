@@ -1,7 +1,7 @@
 /*(Q)Write a program in C++,which will add to complex number.(using class concept)
 Hint: take one default constructor(which will set default value (2,2) .
 Take another parameterized constructor .Use destructor function for deallocating memory.*/
-
+#include<bits/stdc++.h>
 #include <iostream>
 using namespace std;
 class Complex{
